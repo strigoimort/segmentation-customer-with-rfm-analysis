@@ -24,7 +24,7 @@ The RFM scores are calculated, and customers are segmented accordingly.
 SQL and Jupyter Notebooks or scripts showcasing the RFM analysis process, data processing, and segmentation techniques are included in this section.
 
 ## Results
-
+<img src="./img/Segmentation Customer with Recency, Frequency, and Monetary (RFM) Analysis.jpg" width=100%>
 In the conducted RFM analysis, customers are segmented into different groups based on their transaction behaviors. The resulting segments provide insights into customer engagement, loyalty, and value. This segmentation enables targeted marketing strategies, personalized communication, and improved customer satisfaction.
 
 ## License
