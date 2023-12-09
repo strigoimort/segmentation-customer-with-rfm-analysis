@@ -27,6 +27,14 @@ SQL and Jupyter Notebooks or scripts showcasing the RFM analysis process, data p
 <img src="./img/Segmentation Customer with Recency, Frequency, and Monetary (RFM) Analysis.jpg" width=100%>
 In the conducted RFM analysis, customers are segmented into different groups based on their transaction behaviors. The resulting segments provide insights into customer engagement, loyalty, and value. This segmentation enables targeted marketing strategies, personalized communication, and improved customer satisfaction.
 
+## Contributors
+
+1. Petrik Siano Okta Prima Lesmana
+2. Dinandara Aliya Rahma Heryandya
+3. Diva Ramadhan Radityatama
+4. Dwi Yashinta Inayah Putri
+5. Sania Auliyana Diatri
+
 ## License
 
 This project is licensed under the [Bitlabs Academy](https://academy.bitlabs.id/).
@@ -36,4 +44,4 @@ This project is licensed under the [Bitlabs Academy](https://academy.bitlabs.id/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/customer-segmentation-rfm-analysis.git
+   git clone https://github.com/strigoimort/segementation-customer-with-rfm-analysis.git
